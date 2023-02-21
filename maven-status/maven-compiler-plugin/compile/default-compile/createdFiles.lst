@@ -1,9 +1,0 @@
-com\kgisl\springmvc\service\CustomerService.class
-com\kgisl\springmvc\entity\Customer.class
-com\kgisl\springmvc\controller\CustomerController.class
-com\kgisl\springmvc\repository\CustomerRepository.class
-com\kgisl\springmvc\config\AppInitializer.class
-com\kgisl\springmvc\config\PersistenceJPAConfig.class
-com\kgisl\springmvc\config\WebMvcConfig.class
-com\kgisl\springmvc\service\CustomerServiceImpl.class
-com\kgisl\springmvc\exception\ResourceNotFoundException.class
